@@ -1,0 +1,26 @@
+2026-03-20 23:57:29,052 [INFO] --- App Start ---
+2026-03-20 23:57:29,557 [INFO] Initialisiere Whisper...
+2026-03-20 23:57:29,659 [DEBUG] connect_tcp.started host='huggingface.co' port=443 local_address=None timeout=None socket_options=None
+2026-03-20 23:57:29,695 [DEBUG] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001EF0C894820>
+2026-03-20 23:57:29,695 [DEBUG] start_tls.started ssl_context=<ssl.SSLContext object at 0x000001EF0C853E40> server_hostname='huggingface.co' timeout=None
+2026-03-20 23:57:29,709 [DEBUG] start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001EF0C894850>
+2026-03-20 23:57:29,709 [DEBUG] send_request_headers.started request=<Request [b'GET']>
+2026-03-20 23:57:29,710 [DEBUG] send_request_headers.complete
+2026-03-20 23:57:29,710 [DEBUG] send_request_body.started request=<Request [b'GET']>
+2026-03-20 23:57:29,710 [DEBUG] send_request_body.complete
+2026-03-20 23:57:29,710 [DEBUG] receive_response_headers.started request=<Request [b'GET']>
+2026-03-20 23:57:29,856 [DEBUG] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 20 Mar 2026 22:57:29 GMT'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'content-encoding', b'gzip'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69bdd0d9-5fc1e46613504e2e55d21b42;c3262e35-6237-47d0-9e86-e27c31f8dbc1'), (b'RateLimit', b'"api";r=499;t=279'), (b'RateLimit-Policy', b'"fixed window";"api";q=500;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin'), (b'vary', b'accept-encoding'), (b'ETag', b'W/"8cb-FNHaJEP+oU9i8beHxlTIJOHcRrE"'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 63981dc5d36196bc20dc32938804362e.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'ZRH52-P1'), (b'X-Amz-Cf-Id', b'0yHLcxxfU8-DGIm87RE7zfo_0nby4X-8E1fs1imfuSyihlar4qYn1w==')])
+2026-03-20 23:57:29,856 [INFO] HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-03-20 23:57:29,856 [DEBUG] receive_response_body.started request=<Request [b'GET']>
+2026-03-20 23:57:29,857 [DEBUG] receive_response_body.complete
+2026-03-20 23:57:29,857 [DEBUG] response_closed.started
+2026-03-20 23:57:29,857 [DEBUG] response_closed.complete
+2026-03-20 23:57:30,460 [INFO] Whisper Engine bereit.
+2026-03-20 23:57:30,463 [INFO] Hotkey Setup abgeschlossen.
+2026-03-20 23:57:30,463 [INFO] Starte Webserver...
+2026-03-20 23:57:30,598 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.1.124:5000
+2026-03-20 23:57:30,598 [INFO] [33mPress CTRL+C to quit[0m
+2026-03-20 23:57:30,773 [INFO] UI App Instanz erstellt.
