@@ -19,7 +19,7 @@ SprichKlartext ist eine hochmoderne Speech-to-Text Anwendung für Windows, die �
 - **Core**: Python & CustomTkinter (Desktop UI)
 - **Engine**: OpenAI Whisper (Local AI Transcription)
 - **Bridge**: Flask & Socket.io (Mobile Connectivity)
-- **Design**: Modernes Glassmorphism-Konzept & Sinuswellen-Animationen
+- **Design**: Modernes Glassmorphism-Konzept
 
 ## 💡 Sprachbefehle
 
