@@ -30,4 +30,4 @@ SprichKlartext ist eine hochmoderne Speech-to-Text Anwendung für Windows, die �
 | "suchen [text]" | Startet eine Google-Suche |
 | "neue zeile" | Fügt einen Zeilenumbruch ein |
 
-Download the SprichKlartext.exe and run
+Download the SprichKlartext_Setup_Final.exe and run the installer. 
