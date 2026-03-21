@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# App Specific
+dictation_history.json
+# Wir ignorieren generierte Icons im Root, behalten aber die in static/
+app_icon_organic_warm_*.png
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+dictation_history.json
+SprichKlartext-Release/
+cert.pem
+key.pem 
