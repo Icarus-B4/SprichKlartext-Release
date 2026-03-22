@@ -30,4 +30,10 @@ SprichKlartext ist eine hochmoderne Speech-to-Text Anwendung für Windows, die �
 | "suchen [text]" | Startet eine Google-Suche |
 | "neue zeile" | Fügt einen Zeilenumbruch ein |
 
-Download the SprichKlartext_Setup_Final.exe and run the installer. 
+## 🫧 SprichKlartext_Setup_Final.exe herunterladen und installieren. 
+- Nach Appstart auf Mobile Icon rechts klicken und QR-Bild mit Smartphoen scanen
+![SprichKlartext Logo](static/Smarthpone-QR-Scanen.png)
+
+👇Danach auf Hauptbildschirm verküpfung erstellen durch Installieren der Android-Verknüpung auf dem Smartphone 
+![SprichKlartext Logo](static/App-Bildschirm-hinszufügen.png)![SprichKlartext Logo](static/UnsichereApp_Ignorieren.png)
+Warnhinweis Ignorieren da Google Play Protect die app-url nicht kennt und als unsicher markiert...
