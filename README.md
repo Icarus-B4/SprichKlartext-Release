@@ -4,7 +4,7 @@
 
 SprichKlartext ist eine hochmoderne Speech-to-Text Anwendung für Windows, die Ästhetik und Funktion vereint. Deine gesprochenen Worte erscheinen als sanft schwebende Bubbles in einem warmen, premium Design.
 
-![SprichKlartext Logo](static/icon-194.png)
+![SprichKlartext Logo](static/icon-195.png)
 
 ## ✨ Highlights
 
