@@ -14,6 +14,13 @@
 - 🎨 **Premium Aesthetic**: Harmonische "Organic Warm" Farbpalette (Kupfer, Gold, Braun) mit subtilen Glaseffekten.
 - 🚀 **Whisper-Powered**: Hochpräzise Transkription direkt auf deinem Rechner.
 
+## Funktioniert 
+
+- 🔷 **Windows Programme**: in Cursor/ Antigravity/ Editor/ Notpad++/ Word/ Browser/
+-  🫵 Funktioniert auch hier bei GitHub/ im Edit
+- ✨ Überall dort wo du den cursor | platziert hast, einfach praktisch!! 😁
+
+
 ## 🛠️ Tech-Stack
 
 - **Core**: Python & CustomTkinter (Desktop UI)
