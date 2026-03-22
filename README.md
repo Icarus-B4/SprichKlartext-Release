@@ -2,7 +2,7 @@
 
 > **Premium Diktat-Erfahrung mit organischen schwebenden Bubbles & mobiler Fernbedienung.**
 
-SprichKlartext ist eine hochmoderne Speech-to-Text Anwendung für Windows, die Ästhetik und Funktion vereint. Deine gesprochenen Worte erscheinen als sanft schwebende Bubbles in einem warmen, premium Design.
+"SprichKlartext. APP" revolutioniert deine Schreiberfahrung. Deine gesprochenen Worte werden nicht einfach nur transkribiert, sondern erscheinen als sanft schwebende Bubbles in einem warmen, eleganten Design. Nutze dein Smartphone als hochwertiges Remote-Mikrofon und erlebe eine nahtlose Verbindung zwischen Ästhetik und modernster KI-Technik.
 
 ![SprichKlartext Logo](static/icon-196.png)
 
@@ -31,9 +31,26 @@ SprichKlartext ist eine hochmoderne Speech-to-Text Anwendung für Windows, die �
 | "neue zeile" | Fügt einen Zeilenumbruch ein |
 
 ## 🫧 SprichKlartext_Setup_Final.exe herunterladen und installieren. 
-- Nach Appstart auf Mobile Icon rechts klicken und QR-Bild mit Smartphoen scanen
+- Nach Appstart auf Mobile Icon 👇rechts klicken und QR-Bild mit Smartphoen scanen.
+
 ![SprichKlartext Logo](static/1_Smarthpone-QR-Scanen.png)
 
-👇Danach auf Hauptbildschirm verküpfung erstellen durch Installieren der Android-Verknüpung auf dem Smartphone 
+- Ein neuer Browser-Tab auf dem Smartphone wird geöffnet. Jetzt kannst du die App auf den Hauptbildschirm verknüpfen/ durch Installieren der Web-App. Click in auf das ⬇️
+
 ![SprichKlartext Logo](static/2_App-Bildschirm-hinszufügen.png)![SprichKlartext Logo](static/3_UnsichereApp_Ignorieren.png)
-Warnhinweis Ignorieren da Google Play Protect die app-url nicht kennt und als unsicher markiert...
+
+- Warnhinweis Ignorieren da Google Play Protect / die app-url nicht kennt und als unsicher markiert...
+
+## 🛠️ Fehlerbehebung (FAQ)
+
+**Q: Mein Smartphone zeigt "Verbindung nicht möglich".**
+A: Stelle sicher, dass die Desktop-App den Status "v1.5 [Cloudflare]" anzeigt. Der Tunnel benötigt ca. 5-10 Sekunden nach dem Start, um bereit zu sein.
+
+**Q: Der QR-Code erscheint nicht.**
+A: Überprüfe deine Internetverbindung. Die Cloudflare-Infrastruktur muss für die Fernbedienung erreichbar sein.
+
+**Q: Kann ich die App auf dem Handy-Startbildschirm speichern?**
+A: Ja, aber da sich die Adresse aus Sicherheitsgründen bei jedem Start ändert, empfehlen wir bei jedem neuen Diktat-Durchgang einen kurzen Scan des QR-Codes. Danach kannst du wieder wie oben in den Bildern erklärt vorgehen.
+
+---
+*Entwickelt für Menschen, die Ästhetik ebenso schätzen wie Effizienz.* 💭✨
