@@ -20,6 +20,19 @@
 -  🫵 Funktioniert auch hier bei GitHub/ im Edit
 - ✨ Überall dort wo du den cursor | platziert hast, einfach praktisch!! 😁
 
+## 📱 Einrichtung der Remote-Verbindung (Ngrok)
+
+Damit du dein Smartphone als Mikrofon nutzen kannst, benötigt die App eine sichere Internet-Verbindung (Tunnel). Da dies eine öffentliche App ist, nutzt jeder Nutzer seinen eigenen (kostenlosen) Ngrok-Account.
+
+1.  **Registrieren**: Erstelle einen kostenlosen Account unter [ngrok.com](https://dashboard.ngrok.com/signup).
+2.  **Auth-Token abrufen**: Gehe im Ngrok-Dashboard zu **"Your Authtoken"** und kopiere den langen Code.
+3.  **In App eintragen**:
+    - Öffne SprichKlartext am PC.
+    - Klicke unten auf **⚙️ Einstellungen**.
+    - Füge deinen Token in das Feld "Ngrok Auth-Token" ein.
+4.  **(Optional) Statische Domain**: Du kannst unter "Cloud Edge -> Domains" eine kostenlose Domain reservieren (z.B. `dein-name.ngrok-free.app`). Trage diese ebenfalls in den Einstellungen ein, damit dein QR-Code für immer gleich bleibt!
+5.  **Starten**: Nach dem Speichern die App einmal neu starten. Scanne den QR-Code mit deinem Handy – fertig!
+
 
 ## 🛠️ Tech-Stack
 
